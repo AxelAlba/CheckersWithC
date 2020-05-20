@@ -1,6 +1,7 @@
 /*
-Machine Project for CCDSTRU
+Board Game: Checkers
 
+Developers:
 ALBA, Axel
 NOVEDA, Denver
 TAN, Christian
